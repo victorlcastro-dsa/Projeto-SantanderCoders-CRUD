@@ -3,6 +3,8 @@
 
 **Status**: `Em desenvolvimento`
 
+**Notebook**: [CRUD](https://github.com/victorlcastro-dsa/Projeto_SantanderCoders_CRUD/blob/main/notebook/CRUD.ipynb)
+
 ## 🧑‍💻 Objetivo
 O objetivo deste projeto, desenvolvido em grupo, é aplicar os conceitos aprendidos no módulo **Lógica de Programação II (Python)** do **Santander Coders** para criar um sistema CRUD (Create, Read, Update, Delete) que gerencie transações bancárias de forma eficiente.
 
