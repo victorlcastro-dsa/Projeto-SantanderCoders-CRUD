@@ -31,7 +31,6 @@ O objetivo deste projeto, desenvolvido em grupo, é aplicar os conceitos aprendi
 ## 🛠️ Ferramentas e Tecnologias Utilizadas
 - **Python**
   - **Bibliotecas**:
-    - Pandas
     - JSON
     - OS
 
