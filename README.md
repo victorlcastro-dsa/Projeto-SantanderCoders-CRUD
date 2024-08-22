@@ -1,5 +1,4 @@
 ---
-
 # 🏦 Projeto CRUD - Santander Coders 24 - Data Science
 
 **Status**: `Em desenvolvimento`
@@ -41,4 +40,3 @@ O objetivo deste projeto, desenvolvido em grupo, é aplicar os conceitos aprendi
 - Melhoria dos filtros de pesquisa e visualização de transações.
 - Inclusão de novas funcionalidades com base nas necessidades dos usuários.
 
----
