@@ -2,7 +2,7 @@
 
 # 🏦 Projeto CRUD - Santander Coders 24 - Data Science
 
-**Status**: ´Em desenvolvimento´
+**Status**: `Em desenvolvimento`
 
 ## 🧑‍💻 Objetivo
 O objetivo deste projeto, desenvolvido em grupo, é aplicar os conceitos aprendidos no módulo **Lógica de Programação II (Python)** do **Santander Coders** para criar um sistema CRUD (Create, Read, Update, Delete) que gerencie transações bancárias de forma eficiente.
