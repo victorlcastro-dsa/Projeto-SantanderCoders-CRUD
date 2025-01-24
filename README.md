@@ -1,8 +1,6 @@
 ---
 # 🏦 Projeto CRUD - Santander Coders 24 - Data Science
 
-**Status**: `Em desenvolvimento`
-
 **Notebook**: [CRUD](https://github.com/victorlcastro-dsa/Projeto_SantanderCoders_CRUD/blob/main/notebook/CRUD.ipynb)
 
 ## 🧑‍💻 Objetivo
@@ -32,12 +30,4 @@ O objetivo deste projeto, desenvolvido em grupo, é aplicar os conceitos aprendi
 
 ## 🛠️ Ferramentas e Tecnologias Utilizadas
 - **Python**
-  - **Bibliotecas**:
-    - JSON
-    - OS
-
-## 🚀 Próximos Passos
-- Implementação de uma interface gráfica simples.
-- Melhoria dos filtros de pesquisa e visualização de transações.
-- Inclusão de novas funcionalidades com base nas necessidades dos usuários.
 
